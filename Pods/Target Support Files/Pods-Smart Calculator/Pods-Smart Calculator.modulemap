@@ -1,0 +1,6 @@
+framework module Pods_Smart_Calculator {
+  umbrella header "Pods-Smart Calculator-umbrella.h"
+
+  export *
+  module * { export * }
+}

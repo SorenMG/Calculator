@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 20px;
+}
+
+.center-container {
+  margin: 0;
+  left: 50%;
+  text-align: center;
+}
+
+.title {
+  margin-top: 10px;
+  font-size: 50px;
+  font-family: sans-serif;
+  color: #34495e;
+}
+
+.subtitle {
+  margin-top: 8px;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: #34495e;
+}
+
+p {
+  margin-top: 8px;
+  font-size: 18px;
+  font-family: sans-serif;
+}
